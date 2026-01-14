@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Production-Ready CI/CD Pipeline**
 
-- 🌱 I’m currently learning **🌱 I’m currently learning and building hands-on projects in DevOps, AWS, and CI/CD pipelines.**
+- 🌱 I’m currently learning **🌱 learning and building hands-on projects in DevOps, AWS, and CI/CD pipelines.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karthikgit18](https://github.com/karthikgit18)
 
