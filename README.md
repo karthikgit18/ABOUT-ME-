@@ -1,19 +1,9 @@
-                            Hi 👋, I'm Karthik
-A passionate AWS Cloud & DevOps Engineer from India
+<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h3 align="center">A passionate AWS Cloud & DevOps Engineer from India</h3>
 
-🔥 About Me
+- 📈 Continuously improving skills in Kubernetes, GitOps, CI/CD automation, and cloud observability. **🌱 I’m currently learning and building hands-on projects in DevOps, AWS, and CI/CD pipelines.**
 
-☁️ AWS-focused Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, automation, and scalable system design.
-
-⚙️ Experienced in designing and implementing end-to-end CI/CD pipelines for cloud-native and VM-based applications.
-
-🏢 Worked as a Cloud Intern at BDreamz Global Solutions, gaining hands-on experience in cloud and DevOps technologies.
- 
-📈 Continuously improving skills in Kubernetes, GitOps, CI/CD automation, and cloud observability.
-    -📫 How to reach me **9346295040**
-
-
-
+- 👨‍💻 All of my projects are available at [https://github.com/karthikgit18](https://github.com/karthikgit18)
 
 - 📫 How to reach me **9346295040**
 
