@@ -16,6 +16,7 @@
 - 📫 How to reach me **karthikviswa760@gmail.com**
   
 **🧰 Technical Stack**
+
 **Cloud Computing:**  AWS (EC2, Lambda, VPC,S3,SNS,Auto-Scaling,Load-balancing,IAM,EFS,SQS,Route53,
 CloudWatch, CloudFormation(IAC), BedrockAPI,Amplify,Neptune,APIGateway,ECSFargate,IOTSitewise,IOT
 Greengrass)
