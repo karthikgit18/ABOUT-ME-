@@ -14,6 +14,21 @@
 - 📫 How to reach me **9346295040**
 
 - 📫 How to reach me **karthikviswa760@gmail.com**
+  
+**🧰 Technical Stack**
+
+**Cloud Computing:**  AWS (EC2, Lambda, VPC,S3,SNS,Auto-Scaling,Load-balancing,IAM,EFS,SQS,Route53,
+CloudWatch, CloudFormation(IAC), BedrockAPI,Amplify,Neptune,APIGateway,ECSFargate,IOTSitewise,IOT
+Greengrass)
+**DevOps:**  Docker, Kubernetes, Jenkins(CICD), Terraform(IAC), Ansible
+**Database:**  MySQL
+**Programming & Scripting:**  Python,SQL,Bash
+**Version Control:**  Git,Github
+**Methodology:**  Waterfall Model,Agile,CI/CD
+**Developer Tools:**  VSCode,Anaconda
+**Other:**  AI,Microsoft Office
+**Operating Systems:**  Linux(Ubuntu), Windows
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
