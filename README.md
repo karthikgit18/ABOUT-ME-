@@ -9,17 +9,19 @@
   
 -  **📈 Continuously improving skills in Kubernetes, GitOps, CI/CD automation, and cloud observability.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/karthikgit18](https://github.com/karthikgit18)
+- 👨‍💻 All of my projects are available at  : [https://github.com/karthikgit18](https://github.com/karthikgit18)
 
-- 📫 How to reach me **9346295040**
+- 📫 How to reach me : **9346295040**
 
-- 📫 How to reach me **karthikviswa760@gmail.com**
+ - 📫 How to reach me : **karthikviswa760@gmail.com**
   
 **🧰 Technical Stack**
 
 **Cloud Computing:**  AWS (EC2, Lambda, VPC,S3,SNS,Auto-Scaling,Load-balancing,IAM,EFS,SQS,Route53,
 CloudWatch, CloudFormation(IAC), BedrockAPI,Amplify,Neptune,APIGateway,ECSFargate,IOTSitewise,IOT
 Greengrass)
+
+**Operating Systems:**  Windows, RHEL, Ubuntu (CRUD Operations, VIM & VI Editor, Permissions & Ownership, User Mamanagement, Package Managament, Service Managament, Networking, Troubleshooting, Filesystem ,etc)
 
 **DevOps:**  Docker, Kubernetes, Jenkins(CICD), Terraform(IAC), Ansible
 
@@ -31,11 +33,11 @@ Greengrass)
 
 **Methodology:**  Waterfall Model,Agile,CI/CD
 
-**Developer Tools:**  VSCode,Anaconda
+**Developer Tools:**  VSCode,Anaconda,Putty 
 
 **Other:**  AI,Microsoft Office
 
-**Operating Systems:**  Linux(Ubuntu), Windows
+
 
 
 <h3 align="left">Connect with me:</h3>
